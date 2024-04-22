@@ -1,0 +1,19 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ambiente Virtual
+venv/
+.env
+
+# Arquivos de compilação Python
+*.pyc
+__pycache__/
+
+# Arquivos de configuração do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dependências Python
+*.egg-info/
+dist/
+build/
