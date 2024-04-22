@@ -1,4 +1,4 @@
-# Engenharia de Dados - Pipeline de Dados
+# Engenharia de Dados - Pipeline de Dados Alura
 
 Este projeto faz parte do curso de Engenharia de Dados oferecido pela Alura. O objetivo deste curso é proporcionar aos participantes uma compreensão sólida dos principais fundamentos da engenharia de dados, com foco na construção de um pipeline de dados eficiente e reutilizável.
 
